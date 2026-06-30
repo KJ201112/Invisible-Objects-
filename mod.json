@@ -1,0 +1,12 @@
+{
+  "geode": "v5.7.1",
+  "gd": {
+    "win": "2.208",
+    "android": "2.208"
+  },
+  "id": "kingjames.invisibleobjects",
+  "name": "Invisible Objects",
+  "version": "v1.0.0",
+  "developer": "King James Gado",
+  "description": "Adds a pause-menu toggle that hides level objects while keeping the player visible."
+}
